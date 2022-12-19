@@ -141,19 +141,43 @@ const hayStrike = frames.map(item => { // verificar strike
 })
 console.log(hayStrike)
 
-/*
 const puntaje = frames.map(item => { // puntaje
-    if (item.repuesto === true) {
-        item.puntuacion = hayRepuesto + item.totalBolos
+    let c = 0
+    if (item.frame === 1) {
+        if (item.repuesto === true) {
+            c = item.frame + 1
+            item.puntuacion = item.totalBolos + frames[c].lanzamiento1
+        } else if (item.strike === true) {
+            c = item.frame + 1
+            item.puntuacion = item.totalBolos + frames[c].totalBolos
+        } else {
+            item.puntuacion = item.totalBolos
+        }
+    } else if (item.frame === 10) {
+        if (item.repuesto === true) {
+            c = item.frame - 2
+            item.puntuacion = item.totalBolos + frames[c].puntuacion
+        } else if (item.strike === true) {
+            c = item.frame - 2
+            item.puntuacion = item.totalBolos + frames[c].puntuacion
+        }
+    } else if (item.repuesto === true) {
+        c = item.frame - 2
+        item.puntuacion = frames[c].puntuacion + item.totalBolos
+        c = item.frame + 2
+        item.puntuacion += frames[c].lanzamiento1
     } else if (item.strike === true) {
-        item.puntuacion = hayStrike + item.totalBolos
+        c = item.frame - 2
+        item.puntuacion = frames[c].puntuacion + item.totalBolos
+        c = item.frame + 2
+        item.puntuacion += frames[c].totalBolos
     } else {
-        item.puntuacion = item.totalBolos
+        c = item.frame - 2
+        item.puntuacion = frames[c].puntuacion + item.totalBolos
     }
     return item.puntuacion
 })
 console.log(puntaje)
-*/
 
 console.log(frames)
 
