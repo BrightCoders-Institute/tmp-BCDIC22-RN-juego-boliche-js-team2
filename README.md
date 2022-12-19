@@ -15,9 +15,10 @@
 > **Estamos aprendiendo sobre la marcha :D**
 
 - [Descripción](#descripción)
-- [Cómo instalar y correr el proyecto](#how-to-install-and-run-the-project)
-- [Cómo usar el proyecto](#how-to-use-the-project)
-- [Credits](#credits)
+- [Cómo instalar y correr el proyecto](#cómo-instalar-y-correr-el-proyecto)
+- [Cómo usar el proyecto](#cómo-usar-el-proyecto)
+- [Tecnologías](#tecnologías)
+- [Créditos](#créditos)
 
 ## Descripción
 Este proyecto trata de emular el juego del boliche.
@@ -37,7 +38,7 @@ Este proyecto trata de emular el juego del boliche.
 ```bash
 node Cuadros.js
 ```
-Se puede ejecutar las veces que sean necesarias y los cuadros serán distintos cada vez.
+Se puede ejecutar las veces que sean necesarias y los cuadros serán distintos cada vez. Si da un error en la terminal, es cuestión de ejecutarlo hasta que funcione.
 
 ## Tecnologías
 - ESLint
