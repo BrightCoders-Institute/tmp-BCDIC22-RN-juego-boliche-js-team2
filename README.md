@@ -3,6 +3,7 @@
     <img src="img/logo.png" alt="Brigthcoders">
 </p>
 </h1>
+
 - [Ver instrucciones](./instructions.md)
 
 <p align="center">
@@ -18,7 +19,7 @@
 - [How to Use the Project](#how-to-use-the-project)
 - [Credits](#credits)
 
-# Descripción
+## Descripción
 Este proyecto trata de emular el juego del boliche.
 
 El juego del bolcihe consiste en 10 frames como se muestra en la imagen de abajo.
@@ -29,8 +30,8 @@ En el décimo frame, el jugador que logre hacer un repuesto o un stike, tiene pe
 
 ![Juego-del-boliche](img/bowling.png)
 
-# How to Install and Run the Project
+## How to Install and Run the Project
 
-# How to Use the Project
+## How to Use the Project
 
-# Credits
+## Credits
