@@ -181,10 +181,4 @@ console.log(puntaje)
 
 console.log(frames)
 
-/*
-let item = frames.forEach(item => {
-    item[saludo] = 'hola'
-})
-*/
-
 module.exports = frames
