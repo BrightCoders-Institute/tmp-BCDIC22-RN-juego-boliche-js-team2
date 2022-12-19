@@ -1,17 +1,22 @@
+# El juego del Boliche
 ![BrightCoders Logo](img/logo.png)
-
-# El Juego de boliche
 - [Ver instrucciones](./instructions.md)
 
-This README would normally document whatever steps are necessary to get the application up and running.
+# Badges
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-Things you may want to cover:
+- [El juego del Boliche](#el-juego-del-boliche)
+- [Badges](#badges)
+- [Descripción](#descripción)
+- [How to Install and Run the Project](#how-to-install-and-run-the-project)
+- [How to Use the Project](#how-to-use-the-project)
+- [Credits](#credits)
 
-- Title or Project Name
-- Table of contents
-- Description. A brief description of what the project is about
-- How to Install and Run the Project.
-- How to Use the Project.
-- Credits
-- Badges
-  
+# Descripción
+
+# How to Install and Run the Project
+
+# How to Use the Project
+
+# Credits
