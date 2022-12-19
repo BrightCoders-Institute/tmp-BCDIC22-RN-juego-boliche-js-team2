@@ -22,16 +22,22 @@
 ## Descripción
 Este proyecto trata de emular el juego del boliche.
 
-El juego del bolcihe consiste en 10 frames como se muestra en la imagen de abajo.
-En cada frame el jugador tiene 2 oportunidades para derribar 10 bolos. El puntaje para el frame es el número total de bolos derribados, más los bonus por strikes y repuestos.
-Un repuesto es cuando el jugaor derriba los 10 bolos en 2 intentos. El bonus para ese frame es el número de bolos derribados en el siguiente turno.
-Un strike es cuando el jugador derriba los 10 bolos en su primer intento. El bonus para ese frame es el valor de las siguientes dos bolas rodadas.
-En el décimo frame, el jugador que logre hacer un repuesto o un stike, tiene permitido un tercer intento para completar el frame. Aunque no más de 3 bolas pueden ser rodadas en el décimo frame.
+- El juego del bolcihe consiste en 10 frames como se muestra en la imagen de abajo.
+- En cada frame el jugador tiene 2 oportunidades para derribar 10 bolos. El puntaje para el frame es el número total de bolos derribados, más los bonus por strikes y repuestos.
+    - Un repuesto es cuando el jugaor derriba los 10 bolos en 2 intentos. El bonus para ese frame es el número de bolos derribados en el siguiente turno.
+    - Un strike es cuando el jugador derriba los 10 bolos en su primer intento. El bonus para ese frame es el valor de las siguientes dos bolas rodadas.
+    - En el décimo frame, el jugador que logre hacer un repuesto o un stike, tiene permitido un tercer intento para completar el frame. Aunque no más de 3 bolas pueden ser rodadas en el décimo frame.
 
 ![Juego-del-boliche](img/bowling.png)
 
-## How to Install and Run the Project
+## Cómo instalar y correr el proyecto
 
-## How to Use the Project
+## Cómo usar el proyecto
 
-## Credits
+## Tecnologías
+- ESLint
+- Jest
+- Codacy
+## Créditos
+| [<img src="https://avatars.githubusercontent.com/u/116323123?v=4" width=115><br><sub>Esmeralda Flores</sub>](https://github.com/FloresEsme) |  [<img src="https://avatars.githubusercontent.com/u/72289396?v=4" width=115><br><sub>Carlos Baltazar</sub>](https://github.com/Zarlbarlt) |  [<img src="https://avatars.githubusercontent.com/u/61769763?v=4" width=115><br><sub>Elias Franco</sub>](https://github.com/EliasCode79) |
+| :---: | :---: | :---: |
