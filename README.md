@@ -1,7 +1,8 @@
 <h1 align="center">
     <p align="center">El juego del Boliche</p>
-    ![BrightCoders Logo](img/logo.png)
+    <img src="img/logo.png" alt="Brigthcoders">
 </p>
+</h1>
 - [Ver instrucciones](./instructions.md)
 
 <p align="center">
