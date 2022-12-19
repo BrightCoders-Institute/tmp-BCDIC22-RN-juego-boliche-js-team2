@@ -15,8 +15,8 @@
 > **Estamos aprendiendo sobre la marcha :D**
 
 - [Descripción](#descripción)
-- [How to Install and Run the Project](#how-to-install-and-run-the-project)
-- [How to Use the Project](#how-to-use-the-project)
+- [Cómo instalar y correr el proyecto](#how-to-install-and-run-the-project)
+- [Cómo usar el proyecto](#how-to-use-the-project)
 - [Credits](#credits)
 
 ## Descripción
@@ -31,13 +31,19 @@ Este proyecto trata de emular el juego del boliche.
 ![Juego-del-boliche](img/bowling.png)
 
 ## Cómo instalar y correr el proyecto
+- Clonar el repositorio. Este proyecto se ejecuta con node.
 
 ## Cómo usar el proyecto
+```bash
+node Cuadros.js
+```
+Se puede ejecutar las veces que sean necesarias y los cuadros serán distintos cada vez.
 
 ## Tecnologías
 - ESLint
 - Jest
 - Codacy
+
 ## Créditos
 | [<img src="https://avatars.githubusercontent.com/u/116323123?v=4" width=115><br><sub>Esmeralda Flores</sub>](https://github.com/FloresEsme) |  [<img src="https://avatars.githubusercontent.com/u/72289396?v=4" width=115><br><sub>Carlos Baltazar</sub>](https://github.com/Zarlbarlt) |  [<img src="https://avatars.githubusercontent.com/u/61769763?v=4" width=115><br><sub>Elias Franco</sub>](https://github.com/EliasCode79) |
 | :---: | :---: | :---: |
