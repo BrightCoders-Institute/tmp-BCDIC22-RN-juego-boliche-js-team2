@@ -1,4 +1,4 @@
-a<h1 align="center">
+<h1 align="center">
     <p align="center">El juego del Boliche</p>
     <img src="img/logo.png" alt="Brigthcoders">
 </p>
