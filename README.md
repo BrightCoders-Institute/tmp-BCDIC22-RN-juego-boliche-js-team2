@@ -1,4 +1,4 @@
-<h1 align="center">
+a<h1 align="center">
     <p align="center">El juego del Boliche</p>
     <img src="img/logo.png" alt="Brigthcoders">
 </p>
@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
     <img src="https://img.shields.io/github/stars/camilafernanda?style=social">
     <img src="https://img.shields.io/badge/tested_with-jest-99424f.svg" alt="Tested with Jest">
+    <a href="https://www.codacy.com/gh/BrightCoders-Institute/tmp-BCDIC22-RN-juego-boliche-js-team2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BrightCoders-Institute/tmp-BCDIC22-RN-juego-boliche-js-team2&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/64e5eff9d59e4b3d8e67f58b87f5ccf0"/></a>
 </p>
 
 > **Estamos aprendiendo sobre la marcha :D**
